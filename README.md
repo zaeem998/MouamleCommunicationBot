@@ -10,6 +10,7 @@ sudo add-apt-repository ppa:webupd8team/java -y && sudo apt-get update && sudo a
 ###Edit the config and then 
 ```sh
 git clone https://github.com/Mouamle/MouamleCommunicationBot.git
+cd MouamleCommunicationBot
 chmod 777 start.sh
 ./start.sh
 ```
